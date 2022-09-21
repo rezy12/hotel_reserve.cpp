@@ -545,11 +545,6 @@ int main(){
     }while(opt!=7);
     
     
-    
-    
-    
-    
-    
+	getch();
 
-getch();
 }
